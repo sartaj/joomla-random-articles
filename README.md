@@ -5,7 +5,7 @@ Random Articles
 
 This module is no longer in development. The git was set up for historical purposes and contains an archive.org listing of the download.
 
-## Almost **90,000 downloads**.
+## **~90,000 downloads**.
 
 ###Select Reviews
 
