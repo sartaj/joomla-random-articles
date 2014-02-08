@@ -7,7 +7,7 @@ This module is no longer in development. The git was set up for historical purpo
 
 ## **~90,000 downloads**.
 
-###Selected Reviews
+###Selected Reviews From Joomla Site
 
 * **Should be standard** - I do think this shoudlbe included with joomla. It is a simple module but does exactly what it says. Recommended!
 * **Very Handy** - Simple, powerful, and very useful! Many thanks. :)
