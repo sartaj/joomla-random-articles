@@ -1,4 +1,4 @@
-Random Articles
+Joomla Random Articles
 ======================
 
 [deprecated] Show random articles. For less than Joomla v1.5
